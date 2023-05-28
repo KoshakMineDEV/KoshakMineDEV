@@ -1,7 +1,7 @@
 > # KoshakMineDev's profile
-> - languages: Native - **Russian**, **English**. 
-> - Programming languages: **Java, C++, JavaScript, Web stuff**
-> - I am distributing my code under ![License](https://img.shields.io/badge/License-GPL-blue)
-> ### At the moment, my **main** is the creation of content for **Minecraft**
+> - Languages: Native - **Russian**, **English**. 
+> - Programming languages: **Java, C++ & C**
+> - I am distributing my opensource projects under ![License](https://img.shields.io/badge/License-GPL-blue)
+> ### **Minecraft** content creator
 - [Vkontakte page](https://vk.com/andreykot24)
-- Discord: KoshakMineDev#3012
+- Discord: KoshakMineDev#0001, after changing discord nickname system @koshakminedev
