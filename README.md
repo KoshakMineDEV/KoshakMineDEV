@@ -3,7 +3,7 @@
 ## ✨ A few words about me
 I'm a **Java developer** with big experience in writing code. Mostly I work with **Java**, but I have enough experience working with C/C++, JS/TS & NASM.  
 I'm working with big variety of Minecraft related project including:
-- **Nukkit**
+- **Nukkit/Nukkit-MOT**
 - **PowerNukkitX**
 - **Bukkit/Paper**
 - **Fabric**
